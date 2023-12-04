@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WieprichTetyana/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/WieprichTetyana/goit-react-hw-01-components/static/js/main.74f4d19e.js",
+    "index.html": "/WieprichTetyana/goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/WieprichTetyana/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.74f4d19e.js.map": "/WieprichTetyana/goit-react-hw-01-components/static/js/main.74f4d19e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.74f4d19e.js"
+  ]
+}
