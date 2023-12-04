@@ -1,5 +1,5 @@
 import React from 'react';
-import { user } from 'user.json';
+import user from 'path/to/user.json';
 import { Profile } from './Profile';
 
 export const App = () => {
@@ -12,16 +12,18 @@ export const App = () => {
         avatar={user.avatar}
         stats={user.stats}
       />
-      style=
-      {{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101',
-      }}
-      React homework template
+      <div
+        style={{
+          height: '100vh',
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          fontSize: 40,
+          color: '#010101',
+        }}
+      >
+        React homework template
+      </div>
     </div>
   );
 };
